@@ -3,19 +3,20 @@ title: Third Surf
 subtitle: 'Fins, Surfing & Goods by Todd Anderson'
 image: /img/lanewall2-sq.jpg
 blurb:
-  heading: Why Kaldi?
+  heading: '"Fins are like surfboards, they ALL work."'
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    You need to find the fins you enjoy surfing, and I may be able to help you
+    with that. I've learned to design surfing fins using airplane wing template
+    foils and mechanical drawing in order to create exacting forms on the
+    computer. Thanks to 3D printing and CNC fabrication technology, I can
+    translate these works into real form for you. Or, you can do it yourself!
 intro:
-  heading: What we offer
+  heading: What I offer
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Third Surf is the name I've chosen to represent what I help make happen.
+    What level are you on, when you're amping for your third surf in a day?
+    Conversely how amped are you when you get to have your third surf in a week,
+    a month or a year?
 products:
   - image: img/illustrations-coffee.svg
     text: >-
