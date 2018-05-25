@@ -1,17 +1,19 @@
 ---
 title: Third Surf
-subtitle: 'Fins, Surfing & Goods by Todd Anderson'
+subtitle: 'Surf Tours, fins & accessories'
 image: /img/lanewall2-sq.jpg
 blurb:
-  heading: '"Fins are like surfboards, they ALL work."'
+  heading: 'Purchase fins, or buy the 3D file and print them yourself!'
   text: >-
+    Our boards are akin to fins themselves.  planing through that water as well
+
     You need to find the fins you enjoy surfing, and I may be able to help you
     with that. I've learned to design surfing fins using airplane wing template
     foils and mechanical drawing in order to create exacting forms on the
     computer. Thanks to 3D printing and CNC fabrication technology, I can
     translate these works into real form for you. Or, you can do it yourself!
 intro:
-  heading: 'Buy a fin, do it.'
+  heading: '"Fins are like surfboards, they ALL work."'
   text: >-
     Fins, Surfing and Goods. What level are you on, when you're amping for your
     third surf in a day? Conversely how amped are you when you get to have your
